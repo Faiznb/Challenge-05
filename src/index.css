@@ -1,0 +1,111 @@
+.card {
+  margin-top: 20px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+.see {
+  color: red;
+  margin: 0;
+}
+
+.home {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mv-title {
+  padding: 5px;
+  height: 60px;
+}
+
+.cobagambar {
+  width: 1000px;
+  height: 1000px;
+}
+
+.c-item {
+  height: 786px;
+  width: 100%;
+  border: none;
+}
+
+.c-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+.c-content {
+  height: 700px;
+  left: 100px;
+}
+
+.c-content h1 {
+  text-align: left;
+  font-size: 80px;
+}
+
+.c-content p {
+  text-align: left;
+  width: 600px;
+}
+
+.c-content button {
+  text-align: left;
+  width: 120px;
+}
+
+.h-input {
+  width: 500px;
+}
+
+.h-logo {
+  font-size: 40px;
+  color: red;
+  font-weight: bold;
+}
+
+.header {
+  background-color: rgba(255, 0, 0, 0);
+  position: absolute;
+  height: 70px;
+  width: 100%;
+  z-index: 9999;
+}
+
+.input-s {
+  background-color: rgba(255, 0, 0, 0);
+  border-color: red;
+}
+.input-s::placeholder {
+  color: red;
+}
+
+.back {
+  width: 100px;
+  height: 40px;
+}
+
+.nl-con {
+  width: 100%;
+  height: 100vh;
+}
+
+.nl-content {
+  width: 600px;
+}
+
+.nl-content div {
+  width: 550px;
+  border-radius: 20px;
+  margin: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.nl-content div img {
+  width: 500px;
+  border-radius: 20px;
+  margin: 5px;
+}
